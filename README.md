@@ -1,2 +1,3 @@
 # rgukt-demo
-this is my first git ripository
+This is my first git Repository
+Author:- Revathi Bhimasingu
